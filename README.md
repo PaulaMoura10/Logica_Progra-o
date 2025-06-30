@@ -1,2 +1,2 @@
-# Logica_Progra-o
+# Logica De Programação
 Logica de Programação (Exercicios resolvidos)
